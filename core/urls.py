@@ -20,5 +20,6 @@ from movie_reviews import views
 
 urlpatterns = [
     path('', views.movie_list, name='movie_list'),
+    path('admin/', admin.site.urls),
 ]
 
