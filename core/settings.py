@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # myapp
-    'movie_reviews','core'
+    'movie_reviews',
 ]
 
 MIDDLEWARE = [
