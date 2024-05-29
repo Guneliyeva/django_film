@@ -1,3 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
 body{
     background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: disc; 
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px; 
+    padding-left: 10px; 
 }
